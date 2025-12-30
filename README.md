@@ -58,7 +58,7 @@ Before running the project, you need to set up the following accounts:
 
 1.  **Clone the repository:**
     ```bash
-    git clone https://github.com/rishyym0927/DecidrAI.git
+    git clone https://github.com/Nitesh780/Decide-AI.git
     cd DecidrAI
     ```
 
